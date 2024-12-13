@@ -68,7 +68,7 @@ Contributions are welcome! Please follow these steps to contribute:
 
 This project is licensed under the MIT License - see the LICENSE file for details.
 
-## Acknowledgments
+# Acknowledgments
 
-- [Person or resource to acknowledge]
-- [Another person or resource to acknowledge]
+- [Raihanul Islam](https://github.com/raihanulislam00) for creating and leading the project.
+- Open-source contributors and libraries that inspired and supported this project.
